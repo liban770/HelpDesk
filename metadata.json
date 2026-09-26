@@ -1,0 +1,6 @@
+{
+  "name": "NexusDesk Enterprise Support Workbench",
+  "description": "AI-orchestrated support and ticketing engineering workbench built with React and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
